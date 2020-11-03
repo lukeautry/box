@@ -1,0 +1,29 @@
+{
+  "name": "box",
+  "description": "front end sandbox",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/react": "^16.9.55",
+    "@types/react-dom": "^16.9.9",
+    "@types/styled-components": "^5.1.4",
+    "@typescript-eslint/eslint-plugin": "^4.6.1",
+    "@typescript-eslint/parser": "^4.6.1",
+    "eslint": "^7.12.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "mobx": "^6.0.2",
+    "mobx-react": "^7.0.0",
+    "parcel": "^1.12.4",
+    "prettier": "^2.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1",
+    "styled-reset": "^4.3.0",
+    "typescript": "^4.0.5"
+  }
+}
